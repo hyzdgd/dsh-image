@@ -1,0 +1,3 @@
+- insert:
+    - id: model-vision-picker
+      name: '@local/model-vision-picker'

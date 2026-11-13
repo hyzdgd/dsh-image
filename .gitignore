@@ -1,0 +1,9 @@
+# Write log the plugin appends next to index.js (see HISTORY_FILE in index.js).
+.history.json
+.history.json.tmp
+
+# Local tooling
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
