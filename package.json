@@ -2,6 +2,7 @@
   "name": "@local/model-vision-picker",
   "version": "1.0.0",
   "private": true,
+  "license": "MIT",
   "type": "module",
   "description": "Pick the model supplier route and declare its image input capability.",
   "exports": {

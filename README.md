@@ -247,4 +247,6 @@ dsh-image/
 
 ## 许可
 
-尚未声明许可证。如需开源请添加 `LICENSE`（MIT / Apache-2.0 等），并在本节写明。当前 `package.json` 为 `private: true`，不作为 npm 包发布。
+[MIT](LICENSE) © 2026 hyzdgd
+
+可自由使用、修改、再发布与商用，只需保留版权声明与许可声明。本仓库 `package.json` 为 `private: true`，不发布到 npm，安装方式是让 profile `link` 到本地目录（见「安装」）。
